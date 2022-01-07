@@ -1,1 +1,3 @@
-    console.log("e peguei tá");
+var a;
+
+console.log(a);
